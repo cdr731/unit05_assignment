@@ -5,4 +5,4 @@ Option 1: Pyber
 
 By Christopher Reutz
 
-Completed jupyter notebook is pyber_solved.ipynb.
+Completed jupyter notebook is pyber_solved.ipynb.  Exported images are in the "image" subfolder.
